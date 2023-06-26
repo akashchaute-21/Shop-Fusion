@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e12bf1b.css",
+    "main.js": "/static/js/main.1ee72c4f.js",
+    "static/media/rounded_logo.png": "/static/media/rounded_logo.03e7a1384df4e8fc094d.png",
+    "static/media/logo.png": "/static/media/logo.d5468b4bcb11405ba154.png",
+    "index.html": "/index.html",
+    "main.9e12bf1b.css.map": "/static/css/main.9e12bf1b.css.map",
+    "main.1ee72c4f.js.map": "/static/js/main.1ee72c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e12bf1b.css",
+    "static/js/main.1ee72c4f.js"
+  ]
+}
